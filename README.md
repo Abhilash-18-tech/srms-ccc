@@ -303,4 +303,4 @@ This project is open-source and available for educational purposes.
 
 ---
 
-**Built with ❤️ for efficient student management**
+feel free to fork and enhance the project
